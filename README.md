@@ -53,7 +53,7 @@ Cub3d is a graphics project that leverages ray-casting to create a 3D environmen
 
 ### Building on linux
 
-	If you are on macOS, use the following command to build the project:
+If you are on macOS, use the following command to build the project:
 
 	```bash
 	make
@@ -61,15 +61,15 @@ Cub3d is a graphics project that leverages ray-casting to create a 3D environmen
 
 ## Usage
 
-	Run the executable with a map configuration file as an argument:
+Run the executable with a map configuration file as an argument:
 	
-	-- in linux :
+-- in linux :
 
 	```bash
 	./cub3D maps/map.cub
 	```
 
-	-- in mac :
+-- in mac :
 
 	```bash
 	./cub3D_mac maps/map.cub
