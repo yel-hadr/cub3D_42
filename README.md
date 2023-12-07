@@ -9,8 +9,6 @@ Cub3d is a project inspired by the world-famous Wolfenstein 3D game, which was t
 - [Usage](#usage)
 - [Controls](#controls)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -45,7 +43,7 @@ Cub3d is a graphics project that leverages ray-casting to create a 3D environmen
 	make libmlx
 	```
 
-###Building on macOS
+### Building on macOS
 
 	If you are on macOS, use the following command to build the project:
 
@@ -53,7 +51,7 @@ Cub3d is a graphics project that leverages ray-casting to create a 3D environmen
 	make mac
 	```
 
-###Building on linux
+### Building on linux
 
 	If you are on macOS, use the following command to build the project:
 
