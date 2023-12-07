@@ -6,6 +6,8 @@ Cub3d is a project inspired by the world-famous Wolfenstein 3D game, which was t
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+	- [Building on macOS](#building-on-macos)
+	- [Building on Linux](#building-on-linux)
 - [Usage](#usage)
 - [Controls](#controls)
 - [Screenshots](#screenshots)
@@ -62,14 +64,14 @@ If you are on Linux, use the following command to build the project:
 ## Usage
 
 1.Run the executable with a map configuration file as an argument:
-	
--- in linux :
+
+in linux :
 
 	```bash
 	./cub3D maps/map.cub
 	```
 
--- in mac :
+in mac :
 
 	```bash
 	./cub3D_mac maps/map.cub
