@@ -6,8 +6,8 @@ Cub3d is a project inspired by the world-famous Wolfenstein 3D game, which was t
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-	- [Building on macOS](#building-on-macos)
-	- [Building on Linux](#building-on-linux)
+- [Building on macOS](#building-on-macos)
+- [Building on Linux](#building-on-linux)
 - [Usage](#usage)
 - [Controls](#controls)
 - [Screenshots](#screenshots)
@@ -36,30 +36,30 @@ Cub3d is a graphics project that leverages ray-casting to create a 3D environmen
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd cub3d
-    ```
+	```bash
+	cd cub3d
+	```
 3. build the project and the minilibx library:
 
 	```bash
 	make libmlx
 	```
 
-### Building on macOS
+## Building on macOS
 
 If you are on macOS, use the following command to build the project:
 
-    ```bash
+    ```
     make mac
     ```
 
-### Building on Linux
+## Building on Linux
 
 If you are on Linux, use the following command to build the project:
 
-    ```bash
-    make
-    ```
+	```
+	make
+	```
 
 ## Usage
 
