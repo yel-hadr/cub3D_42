@@ -21,7 +21,7 @@
 # include <stdio.h>
 
 # define BUFFER_SIZE 1
-
+#define OPEN_MAX 1024
 typedef struct s_list
 {
 	int				x;
